@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:5px white;
+    color: black;
+    border: 5px solid blue;
+    border-radius: 5px;
+}
+
+header a{
+    color: white;
+    background-color: blue;
+    border:5px solid blue;
+    border-radius: 5px;
+    text-decoration: none;
+}
+h1{
+    background-color: #AFEEEE;
+    color: blue;
+    text-align: center;
+}
+footer p{
+    border:2px solid black;
+}
+nav {
+    background-color: white;
+    color: blue;
+    border: 3px solid blue;
+    margin: 5px;
+}
+.banana{
+     background-color: white;
+    color: blue;
+    border: 3px solid blue;
+    margin: 5px;
+    border-radius: 5px;
+}
+
